@@ -20,7 +20,6 @@ public class Main {
         int age = 19;
         int salary = 58_000;
 
-
         }
 
 
